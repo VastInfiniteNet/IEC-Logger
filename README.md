@@ -1,6 +1,6 @@
 # IEC-Logger
 JsMacros script service that logs iec exchange trade information to a csv file!
-For help downloading and setting up JsMacros check out a [guide repo I made](https://github.com/VastInfiniteNet/JsMacros-for-CivMc-and-profit).
+For help downloading and setting up JsMacros check out a [guide repo I made](https://github.com/VastInfiniteNet/JsMacros-Getting-Started).
 
 ![In game chat](game_exchange_view.PNG)
 ![In log view](log_exchange_view.PNG)
